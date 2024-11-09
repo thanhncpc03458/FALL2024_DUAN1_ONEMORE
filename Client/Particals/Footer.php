@@ -1,109 +1,108 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-
-</head>
-<body>
-    <!-- Footer -->
-<footer class="text-center text-lg-start bg-body-tertiary text-muted">
-  <!-- Section: Social media -->
-  <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
-
-    <!-- Right -->
-
-  </section>
-  <!-- Section: Social media -->
-
-  <!-- Section: Links  -->
-  <section class="">
-    <div class="container text-center text-md-start mt-5">
-      <!-- Grid row -->
-      <div class="row mt-3">
-        <!-- Grid column -->
-        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-          <!-- Content -->
-          <h6 class="text-uppercase fw-bold mb-4">
-            <i class="fas fa-gem me-3"></i>Company name
-          </h6>
-          <p>
-            Here you can use rows and columns to organize your footer content. Lorem ipsum
-            dolor sit amet, consectetur adipisicing elit.
-          </p>
+        <!--================Newsletter Area =================-->
+        <section class="newsletter_area">
+        	<div class="container">
+        		<div class="row newsletter_inner">
+        			<div class="col-lg-6">
+        				<div class="news_left_text">
+        					<h4>Join our Newsletter list to get all the latest offers, discounts and other benefits</h4>
+        				</div>
+        			</div>
+        			<div class="col-lg-6">
+        				<div class="newsletter_form">
+							<div class="input-group">
+								<input type="text" class="form-control" placeholder="Enter your email address">
+								<div class="input-group-append">
+									<button class="btn btn-outline-secondary" type="button">Subscribe Now</button>
+								</div>
+							</div>
+        				</div>
+        			</div>
+        		</div>
+        	</div>
+        </section>
+        <!--================End Newsletter Area =================-->
+        
+        <!--================Footer Area =================-->
+        <footer class="footer_area">
+        	<div class="footer_widgets">
+        		<div class="container">
+        			<div class="row footer_wd_inner">
+        				<div class="col-lg-3 col-6">
+        					<aside class="f_widget f_about_widget">
+        						<img src="img/footer-logo.png" alt="">
+        						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui bland itiis praesentium voluptatum deleniti atque corrupti.</p>
+        						<ul class="nav">
+        							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+        							<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+        							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+        							<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+        						</ul>
+        					</aside>
+        				</div>
+        				<div class="col-lg-3 col-6">
+        					<aside class="f_widget f_link_widget">
+        						<div class="f_title">
+        							<h3>Quick links</h3>
+        						</div>
+        						<ul class="list_style">
+        							<li><a href="#">Your Account</a></li>
+        							<li><a href="#">View Order</a></li>
+        							<li><a href="#">Privacy Policy</a></li>
+        							<li><a href="#">Terms & Conditionis</a></li>
+        						</ul>
+        					</aside>
+        				</div>
+        				<div class="col-lg-3 col-6">
+        					<aside class="f_widget f_link_widget">
+        						<div class="f_title">
+        							<h3>Work Times</h3>
+        						</div>
+        						<ul class="list_style">
+        							<li><a href="#">Mon. :  Fri.: 8 am - 8 pm</a></li>
+        							<li><a href="#">Sat. : 9am - 4pm</a></li>
+        							<li><a href="#">Sun. : Closed</a></li>
+        						</ul>
+        					</aside>
+        				</div>
+        				<div class="col-lg-3 col-6">
+        					<aside class="f_widget f_contact_widget">
+        						<div class="f_title">
+        							<h3>Contact Info</h3>
+        						</div>
+        						<h4>(1800) 574 9687</h4>
+        						<p>Justshiop Store <br />256, baker Street,, New Youk, 5245</p>
+        						<h5>cakebakery@contact.co.in</h5>
+        					</aside>
+        				</div>
+        			</div>
+        		</div>
+        	</div>
+        	<div class="footer_copyright">
+        		<div class="container">
+        			<div class="copyright_inner">
+        				<div class="float-left">
+        					<h5><a target="_blank" href="https://www.templatespoint.net">Templates Point</a></h5>
+        				</div>
+        				<div class="float-right">
+        					<a href="#">Purchase Now</a>
+        				</div>
+        			</div>
+        		</div>
+        	</div>
+        </footer>
+        <!--================End Footer Area =================-->
+        
+        
+        <!--================Search Box Area =================-->
+        <div class="search_area zoom-anim-dialog mfp-hide" id="test-search">
+            <div class="search_box_inner">
+                <h3>Search</h3>
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search for...">
+                    <span class="input-group-btn">
+                        <button class="btn btn-default" type="button"><i class="icon icon-Search"></i></button>
+                    </span>
+                </div>
+            </div>
         </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-          <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">
-            Products
-          </h6>
-          <p>
-            <a href="#!" class="text-reset">Angular</a>
-          </p>
-          <p>
-            <a href="#!" class="text-reset">React</a>
-          </p>
-          <p>
-            <a href="#!" class="text-reset">Vue</a>
-          </p>
-          <p>
-            <a href="#!" class="text-reset">Laravel</a>
-          </p>
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
-          <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">
-            Useful links
-          </h6>
-          <p>
-            <a href="#!" class="text-reset">Pricing</a>
-          </p>
-          <p>
-            <a href="#!" class="text-reset">Settings</a>
-          </p>
-          <p>
-            <a href="#!" class="text-reset">Orders</a>
-          </p>
-          <p>
-            <a href="#!" class="text-reset">Help</a>
-          </p>
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
-          <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
-          <p><i class="fas fa-home me-3"></i> New York, NY 10012, US</p>
-          <p>
-            <i class="fas fa-envelope me-3"></i>
-            info@example.com
-          </p>
-          <p><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
-          <p><i class="fas fa-print me-3"></i> + 01 234 567 89</p>
-        </div>
-        <!-- Grid column -->
-      </div>
-      <!-- Grid row -->
-    </div>
-  </section>
-  <!-- Section: Links  -->
-
-  <!-- Copyright -->
-  <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
-    © 2021 Copyright:
-    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">MDBootstrap.com</a>
-  </div>
-  <!-- Copyright -->
-</footer>
-<!-- Footer -->
-</body>
-</html>
+        <!--================End Search Box Area =================-->

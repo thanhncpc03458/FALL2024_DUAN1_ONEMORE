@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>GIới Thiệu</title>
 </head>
 <body>
             <!--================Our Bakery Area =================-->
@@ -80,7 +80,7 @@
         						</div>
         						<div class="media-body">
         							<p>Bánh tuyệt đỉnh nóc kịch trần siêu cấp vip pro</p>
-        							<h5>- Dương Gió Tai</h5>
+        							<h5>- Nhật Thực Khách Khó Tánh</h5>
         						</div>
         					</div>
         				</div>
@@ -107,8 +107,8 @@
         			<div class="col-lg-3">
         				<div class="chef_text_item">
         					<div class="main_title">
-								<h2>Our Chefs</h2>
-								<p>Lorem ipsum dolor sit amet, cons ectetur elit. Vestibulum nec odios Suspe ndisse cursus mal suada faci lisis. Lorem ipsum dolor sit ametion.</p>
+								<h2>Đầu bếp của chúng tôi</h2>
+								<p>Bản thân công ty rất quan trọng, nó sẽ được nhà phát triển tuân theo. Tôi không hy vọng vào đường lối cũng như lòng căm thù của kẻ thù. Bản thân công ty đã là một vấn đề khó khăn.</p>
 							</div>
         				</div>
         			</div>
@@ -117,8 +117,8 @@
         					<div class="chef_img">
         						<img class="img-fluid" src="img/chef/chef-1.jpg" alt="">
         					</div>
-        					<a href="#"><h4>Michale Joe</h4></a>
-        					<h5>Expert in Cake Making</h5>
+        					<a href="#"><h4>Pierre Hermé</h4></a>
+        					<h5>Chuyên gia làm bánh</h5>
         				</div>
         			</div>
         			<div class="col-lg-3 col-6">
@@ -126,8 +126,8 @@
         					<div class="chef_img">
         						<img class="img-fluid" src="img/chef/chef-2.jpg" alt="">
         					</div>
-        					<a href="#"><h4>Michale Joe</h4></a>
-        					<h5>Expert in Cake Making</h5>
+        					<a href="#"><h4>Ben Churchill</h4></a>
+        					<h5>Chuyên gia làm bánh</h5>
         				</div>
         			</div>
         			<div class="col-lg-3 col-6">
@@ -135,9 +135,10 @@
         					<div class="chef_img">
         						<img class="img-fluid" src="img/chef/chef-3.jpg" alt="">
         					</div>
-        					<a href="#"><h4>Michale Joe</h4></a>
-        					<h5>Expert in Cake Making</h5>
+        					<a href="#"><h4>Amaury Guichon</h4></a>
+        					<h5>Chuyên gia làm bánh</h5>
         				</div>
+        			</div>
         			</div>
         		</div>
         	</div>

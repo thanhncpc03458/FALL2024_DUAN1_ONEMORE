@@ -8,15 +8,15 @@
 								<div class="float-left">
 									<a class="active" href="#"><i class="fa fa-th-large" aria-hidden="true"></i></a>
 									<a href="#"><i class="fa fa-th-list" aria-hidden="true"></i></a>
-									<span>Showing 1 - 10 of 55 results</span>
+									<span>Hiển thị trang 1 - 10 của 55 trang</span>
 								</div>
 								<div class="float-right">
-									<h4>Sort by :</h4>
+									<h4>Sắp xếp theo :</h4>
 									<select class="short">
-										<option data-display="Default">Default</option>
-										<option value="1">Default</option>
-										<option value="2">Default</option>
-										<option value="4">Default</option>
+										<option data-display="Default">Mặc định</option>
+										<option value="1">Giá tiền</option>
+										<option value="2">Đang giảm giá</option>
+										<option value="4">Bán chạy</option>
 									</select>
 								</div>
 							</div>
@@ -30,7 +30,7 @@
 									<div class="cake_text">
 										<h4>$29</h4>
 										<h3>Strawberry Cupcakes</h3>
-										<a class="pest_btn" href="#">Add to cart</a>
+										<a class="pest_btn" href="#">Thêm vào giỏ hàng</a>
 									</div>
 								</div>
         					</div>
@@ -42,7 +42,7 @@
 									<div class="cake_text">
 										<h4>$29</h4>
 										<h3>Strawberry Cupcakes</h3>
-										<a class="pest_btn" href="#">Add to cart</a>
+										<a class="pest_btn" href="#">Thêm vào giỏ hàng</a>
 									</div>
 								</div>
         					</div>
@@ -54,7 +54,7 @@
 									<div class="cake_text">
 										<h4>$29</h4>
 										<h3>Strawberry Cupcakes</h3>
-										<a class="pest_btn" href="#">Add to cart</a>
+										<a class="pest_btn" href="#">Thêm vào giỏ hàng</a>
 									</div>
 								</div>
         					</div>
@@ -66,7 +66,7 @@
 									<div class="cake_text">
 										<h4>$29</h4>
 										<h3>Strawberry Cupcakes</h3>
-										<a class="pest_btn" href="#">Add to cart</a>
+										<a class="pest_btn" href="#">Thêm vào giỏ hàng</a>
 									</div>
 								</div>
         					</div>
@@ -78,7 +78,7 @@
 									<div class="cake_text">
 										<h4>$29</h4>
 										<h3>Strawberry Cupcakes</h3>
-										<a class="pest_btn" href="#">Add to cart</a>
+										<a class="pest_btn" href="#">Thêm vào giỏ hàng</a>
 									</div>
 								</div>
         					</div>
@@ -90,7 +90,7 @@
 									<div class="cake_text">
 										<h4>$29</h4>
 										<h3>Strawberry Cupcakes</h3>
-										<a class="pest_btn" href="#">Add to cart</a>
+										<a class="pest_btn" href="#">Thêm vào giỏ hàng</a>
 									</div>
 								</div>
         					</div>
@@ -102,7 +102,7 @@
 									<div class="cake_text">
 										<h4>$29</h4>
 										<h3>Strawberry Cupcakes</h3>
-										<a class="pest_btn" href="#">Add to cart</a>
+										<a class="pest_btn" href="#">Thêm vào giỏ hàng</a>
 									</div>
 								</div>
         					</div>
@@ -114,7 +114,7 @@
 									<div class="cake_text">
 										<h4>$29</h4>
 										<h3>Strawberry Cupcakes</h3>
-										<a class="pest_btn" href="#">Add to cart</a>
+										<a class="pest_btn" href="#">Thêm vào giỏ hàng</a>
 									</div>
 								</div>
         					</div>
@@ -126,14 +126,14 @@
 									<div class="cake_text">
 										<h4>$29</h4>
 										<h3>Strawberry Cupcakes</h3>
-										<a class="pest_btn" href="#">Add to cart</a>
+										<a class="pest_btn" href="#">Thêm vào giỏ hàng</a>
 									</div>
 								</div>
         					</div>
         				</div>
         				<div class="product_pagination">
         					<div class="left_btn">
-        						<a href="#"><i class="lnr lnr-arrow-left"></i> New posts</a>
+        						<a href="#"><i class="lnr lnr-arrow-left"></i> Trang trước</a>
         					</div>
         					<div class="middle_list">
 								<nav aria-label="Page navigation example">
@@ -146,7 +146,7 @@
 									</ul>
 								</nav>
         					</div>
-        					<div class="right_btn"><a href="#">Older posts <i class="lnr lnr-arrow-right"></i></a></div>
+        					<div class="right_btn"><a href="#">Trang sau <i class="lnr lnr-arrow-right"></i></a></div>
         				</div>
         			</div>
         			<div class="col-lg-3">
@@ -161,30 +161,30 @@
         					</aside>
         					<aside class="left_sidebar p_catgories_widget">
         						<div class="p_w_title">
-        							<h3>Product Categories</h3>
+        							<h3>Danh mục sản phẩm</h3>
         						</div>
         						<ul class="list_style">
-        							<li><a href="#">Cupcake (17)</a></li>
+        							<li><a href="#">Bánh nướng xốp (17)</a></li>
         							<li><a href="#">Chocolate (15)</a></li>
-        							<li><a href="#">Celebration (14)</a></li>
-        							<li><a href="#">Wedding Cake (8)</a></li>
-        							<li><a href="#">Desserts (11)</a></li>
+        							<li><a href="#">Bánh mừng lễ (14)</a></li>
+        							<li><a href="#">Bánh cưới (8)</a></li>
+        							<li><a href="#">Món tráng miệng (11)</a></li>
         						</ul>
         					</aside>
         					<aside class="left_sidebar p_price_widget">
         						<div class="p_w_title">
-        							<h3>Filter By Price</h3>
+        							<h3>Lọc theo giá</h3>
         						</div>
         						<div class="filter_price">
 									<div id="slider-range"></div>
-       								<label for="amount">Price range:</label>
+       								<label for="amount">Mức giá:</label>
 									<input type="text" id="amount" readonly />
-       								<a href="#">Filter</a>
+       								<a href="#">Bộ lọc</a>
         						</div>
         					</aside>
         					<aside class="left_sidebar p_sale_widget">
         						<div class="p_w_title">
-        							<h3>Top Sale Products</h3>
+        							<h3>Sản phẩm đang giảm giá</h3>
         						</div>
         						<div class="media">
         							<div class="d-flex">

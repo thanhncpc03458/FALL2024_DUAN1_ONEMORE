@@ -37,7 +37,7 @@
 						<div class="collapse navbar-collapse" id="navbarSupportedContent">
 							<ul class="navbar-nav mr-auto">
 								<li class="dropdown submenu active">
-									<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Home</a>
+									<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Trang chủ</a>
 								</li>
 								<li><a href="cake.html">Bánh của chúng tôi</a></li>
 								<li><a href="menu.html">Menu</a></li>
@@ -55,14 +55,8 @@
 								</li>
 								<li class="dropdown submenu">
 									<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Shop</a>
-									<ul class="dropdown-menu">
-										<li><a href="shop.html">Main shop</a></li>
-										<li><a href="product-details.html">Product Details</a></li>
-										<li><a href="cart.html">Cart Page</a></li>
-										<li><a href="checkout.html">Checkout Page</a></li>
-									</ul>
 								</li>
-								<li><a href="contact.html">Contact Us</a></li>
+								<li><a href="contact.html">Liên hệ</a></li>
 								<li><a href="contact.html">Đăng nhập</a></li>
 							</ul>
 						</div>

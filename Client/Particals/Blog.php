@@ -16,14 +16,14 @@
 										<div class="float-right">
 											<ul class="list_style">
 												<li><a href="#">By :  Admin</a></li>
-												<li><a href="#">bekery, sweet</a></li>
-												<li><a href="#">Comments: 8</a></li>
+												<li><a href="#">Bánh mì, Ngọt</a></li>
+												<li><a href="#">Bình luận: 8</a></li>
 											</ul>
 										</div>
 									</div>
-									<a href="#"><h4>This mistaken idea of denouncing pleasure and praising pain</h4></a>
-									<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni do-lores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p>
-									<a class="pink_more" href="#">Read more</a>
+									<a href="#"><h4>Ý tưởng sai lầm này là lên án niềm vui và ca ngợi nỗi đau</h4></a>
+									<p>Vì không ai khinh thường, ghét bỏ hay chạy trốn thú vui vì đó là thú vui, mà là vì những kẻ không biết theo đuổi thú vui bằng lý trí sẽ phải chịu những đau buồn lớn lao. Hơn nữa, cũng không có ai vì yêu nỗi đau nên theo đuổi nó, muốn đạt được nó, nhưng vì những lúc như vậy không bao giờ xảy ra khi anh ta tìm kiếm niềm vui lớn lao nào đó qua lao động và đau đớn.</p>
+									<a class="pink_more" href="#">Đọc thêm</a>
 								</div>
 							</div>
 							<div class="blog_item">
@@ -36,16 +36,16 @@
 											<a href="#">08 Feb. 2018</a>
 										</div>
 										<div class="float-right">
-											<ul class="list_style">
+										<ul class="list_style">
 												<li><a href="#">By :  Admin</a></li>
-												<li><a href="#">bekery, sweet</a></li>
-												<li><a href="#">Comments: 8</a></li>
+												<li><a href="#">Bánh mì, Ngọt</a></li>
+												<li><a href="#">Bình luận: 8</a></li>
 											</ul>
 										</div>
 									</div>
-									<a href="#"><h4>This mistaken idea of denouncing pleasure and praising pain</h4></a>
-									<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni do-lores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p>
-									<a class="pink_more" href="#">Read more</a>
+									<a href="#"><h4>Ý tưởng sai lầm này là lên án niềm vui và ca ngợi nỗi đau</h4></a>
+									<p>Vì không ai khinh thường, ghét bỏ hay chạy trốn thú vui vì đó là thú vui, mà là vì những kẻ không biết theo đuổi thú vui bằng lý trí sẽ phải chịu những đau buồn lớn lao. Hơn nữa, cũng không có ai vì yêu nỗi đau nên theo đuổi nó, muốn đạt được nó, nhưng vì những lúc như vậy không bao giờ xảy ra khi anh ta tìm kiếm niềm vui lớn lao nào đó qua lao động và đau đớn.</p>
+									<a class="pink_more" href="#">Đọc thêm</a>
 								</div>
 							</div>
 							<div class="blog_item">
@@ -58,16 +58,16 @@
 											<a href="#">08 Feb. 2018</a>
 										</div>
 										<div class="float-right">
-											<ul class="list_style">
+										<ul class="list_style">
 												<li><a href="#">By :  Admin</a></li>
-												<li><a href="#">bekery, sweet</a></li>
-												<li><a href="#">Comments: 8</a></li>
+												<li><a href="#">Bánh mì, Ngọt</a></li>
+												<li><a href="#">Bình luận: 8</a></li>
 											</ul>
 										</div>
 									</div>
-									<a href="#"><h4>This mistaken idea of denouncing pleasure and praising pain</h4></a>
-									<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni do-lores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p>
-									<a class="pink_more" href="#">Read more</a>
+									<a href="#"><h4>Ý tưởng sai lầm này là lên án niềm vui và ca ngợi nỗi đau</h4></a>
+									<p>Vì không ai khinh thường, ghét bỏ hay chạy trốn thú vui vì đó là thú vui, mà là vì những kẻ không biết theo đuổi thú vui bằng lý trí sẽ phải chịu những đau buồn lớn lao. Hơn nữa, cũng không có ai vì yêu nỗi đau nên theo đuổi nó, muốn đạt được nó, nhưng vì những lúc như vậy không bao giờ xảy ra khi anh ta tìm kiếm niềm vui lớn lao nào đó qua lao động và đau đớn.</p>
+									<a class="pink_more" href="#">Đọc thêm</a>
 								</div>
 							</div>
 							<div class="blog_item">
@@ -80,16 +80,16 @@
 											<a href="#">08 Feb. 2018</a>
 										</div>
 										<div class="float-right">
-											<ul class="list_style">
+										<ul class="list_style">
 												<li><a href="#">By :  Admin</a></li>
-												<li><a href="#">bekery, sweet</a></li>
-												<li><a href="#">Comments: 8</a></li>
+												<li><a href="#">Bánh mì, Ngọt</a></li>
+												<li><a href="#">Bình luận: 8</a></li>
 											</ul>
 										</div>
 									</div>
-									<a href="#"><h4>This mistaken idea of denouncing pleasure and praising pain</h4></a>
-									<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni do-lores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p>
-									<a class="pink_more" href="#">Read more</a>
+									<a href="#"><h4>Ý tưởng sai lầm này là lên án niềm vui và ca ngợi nỗi đau</h4></a>
+									<p>Vì không ai khinh thường, ghét bỏ hay chạy trốn thú vui vì đó là thú vui, mà là vì những kẻ không biết theo đuổi thú vui bằng lý trí sẽ phải chịu những đau buồn lớn lao. Hơn nữa, cũng không có ai vì yêu nỗi đau nên theo đuổi nó, muốn đạt được nó, nhưng vì những lúc như vậy không bao giờ xảy ra khi anh ta tìm kiếm niềm vui lớn lao nào đó qua lao động và đau đớn.</p>
+									<a class="pink_more" href="#">Đọc thêm</a>
 								</div>
 							</div>
 							<div class="blog_item">
@@ -102,16 +102,16 @@
 											<a href="#">08 Feb. 2018</a>
 										</div>
 										<div class="float-right">
-											<ul class="list_style">
+										<ul class="list_style">
 												<li><a href="#">By :  Admin</a></li>
-												<li><a href="#">bekery, sweet</a></li>
-												<li><a href="#">Comments: 8</a></li>
+												<li><a href="#">Bánh mì, Ngọt</a></li>
+												<li><a href="#">Bình luận: 8</a></li>
 											</ul>
 										</div>
 									</div>
-									<a href="#"><h4>This mistaken idea of denouncing pleasure and praising pain</h4></a>
-									<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni do-lores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p>
-									<a class="pink_more" href="#">Read more</a>
+									<a href="#"><h4>Ý tưởng sai lầm này là lên án niềm vui và ca ngợi nỗi đau</h4></a>
+									<p>Vì không ai khinh thường, ghét bỏ hay chạy trốn thú vui vì đó là thú vui, mà là vì những kẻ không biết theo đuổi thú vui bằng lý trí sẽ phải chịu những đau buồn lớn lao. Hơn nữa, cũng không có ai vì yêu nỗi đau nên theo đuổi nó, muốn đạt được nó, nhưng vì những lúc như vậy không bao giờ xảy ra khi anh ta tìm kiếm niềm vui lớn lao nào đó qua lao động và đau đớn.</p>
+									<a class="pink_more" href="#">Đọc thêm</a>
 								</div>
 							</div>
         				</div>
@@ -135,20 +135,20 @@
         					</aside>
         					<aside class="r_widget categories_widget">
 								<div class="r_title">
-									<h3>Categories</h3>
+									<h3>Danh mục</h3>
 								</div>
        							<ul class="list_style">
        								<li><a href="#">Chocolates<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-       								<li><a href="#">Summer Caket<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-       								<li><a href="#">Ice Cream<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-       								<li><a href="#">Lollipop<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-       								<li><a href="#">Sweet<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-       								<li><a href="#">Bakery<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+       								<li><a href="#">Bánh Mùa Hè<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+       								<li><a href="#">Kem đá<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+       								<li><a href="#">Kẹo Mút<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+       								<li><a href="#">Đồ Ngọt<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+       								<li><a href="#">Bánh Mì<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
        							</ul>
         					</aside>
         					<aside class="r_widget recent_widget">
 								<div class="r_title">
-									<h3>Recent News</h3>
+									<h3>Tin tức gần đây</h3>
 								</div>
        							<div class="recent_w_inner">
        								<div class="media">
@@ -156,8 +156,8 @@
 											<img src="./Client/assets/img/blog/recent-post/r-post-1.jpg" alt="">
 										</div>
 										<div class="media-body">
-											<a href="#"><h4>A very bad quack might jinx zippy fowls ...</h4></a>
-											<a href="#"><p>08 Feb 2018</p></a>
+											<a href="#"><h4>Một tiếng kêu rất tệ có thể làm hại những chú gà nhanh nhẹn ...</h4></a>
+											<a href="#"><p>10 Tháng 11 2024</p></a>
 										</div>
 									</div>
 									<div class="media">
@@ -165,8 +165,8 @@
 											<img src="./Client/assets/img/blog/recent-post/r-post-2.jpg" alt="">
 										</div>
 										<div class="media-body">
-											<a href="#"><h4>Big Steps to change management succes...</h4></a>
-											<a href="#"><p>08 Feb 2018</p></a>
+											<a href="#"><h4>Những bước tiến lớn để thay đổi thành công trong quản lý...</h4></a>
+											<a href="#"><p>10 Tháng 11 2024</p></a>
 										</div>
 									</div>
 									<div class="media">
@@ -174,8 +174,8 @@
 											<img src="./Client/assets/img/blog/recent-post/r-post-3.jpg" alt="">
 										</div>
 										<div class="media-body">
-											<a href="#"><h4>A paradisematic country, where roasted parts...</h4></a>
-											<a href="#"><p>08 Feb 2018</p></a>
+											<a href="#"><h4>Một đất nước thiên đường, nơi có những bộ phận được nướng...</h4></a>
+											<a href="#"><p>10 Tháng 11 2024</p></a>
 										</div>
 									</div>
 									<div class="media">
@@ -183,8 +183,8 @@
 											<img src="./Client/assets/img/blog/recent-post/r-post-4.jpg" alt="">
 										</div>
 										<div class="media-body">
-											<a href="#"><h4>A wonderful serenity has taken possession...</h4></a>
-											<a href="#"><p>08 Feb 2018</p></a>
+											<a href="#"><h4>Một sự thanh thản tuyệt vời đã chiếm hữu...</h4></a>
+											<a href="#"><p>10 Tháng 11 2024</p></a>
 										</div>
 									</div>
        							</div>
@@ -194,11 +194,11 @@
 									<h3>Tags</h3>
 								</div>
        							<ul class="list_style">
-       								<li><a href="#">Baking Tips</a></li>
-       								<li><a href="#">Bakery</a></li>
-       								<li><a href="#">Recipe</a></li>
-       								<li><a href="#">Baking Tool</a></li>
-       								<li><a href="#">Cakes</a></li>
+       								<li><a href="#">Mẹo làm bánh mì</a></li>
+       								<li><a href="#">Bánh mì</a></li>
+       								<li><a href="#">Công thức</a></li>
+       								<li><a href="#">Dụng cụ làm bánh</a></li>
+       								<li><a href="#">Bánh</a></li>
        								<li><a href="#">Chocolates</a></li>
        							</ul>
         					</aside>

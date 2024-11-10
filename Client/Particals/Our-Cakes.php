@@ -2,10 +2,10 @@
         <section class="banner_area">
         	<div class="container">
         		<div class="banner_text">
-        			<h3>Our Cakes</h3>
+        			<h3>Bánh Của Chúng Tôi</h3>
         			<ul>
         				<li><a href="index.html">Home</a></li>
-        				<li><a href="cakes.html">Services</a></li>
+        				<li><a href="cakes.html">Dịch vụ</a></li>
         			</ul>
         		</div>
         	</div>
@@ -16,7 +16,7 @@
         <section class="our_cakes_area p_100">
         	<div class="container">
         		<div class="main_title">
-        			<h2>Our Cakes</h2>
+        			<h2>Bánh của chúng tôi</h2>
         			<h5>Nhưng để bạn có thể thấy tất cả sai lầm bẩm sinh này của những người buộc tội niềm vui và ca ngợi nỗi đau là từ đâu, tôi sẽ mở rộng toàn bộ vấn đề và giải thích chính những điều đã được nói bởi người khám phá ra sự thật và cũng như người kiến ​​tạo nên sự thật. một cuộc sống hạnh phúc.<h5>
         		</div>
         		<div class="cake_feature_row row">

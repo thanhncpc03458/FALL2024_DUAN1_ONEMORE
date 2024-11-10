@@ -3,7 +3,7 @@
                <section class="banner_area">
         	<div class="container">
         		<div class="banner_text">
-        			<h3>Cart</h3>
+        			<h3>Giỏ Hàng</h3>
         			<ul>
         				<li><a href="index.html">Home</a></li>
         				<li><a href="cart.html">Giỏ Hàng</a></li>
@@ -51,9 +51,9 @@
 								<td>
 									<form class="form-inline"> 
 										<div class="form-group"> 
-											<input type="text" class="form-control" placeholder="Coupon code">
+											<input type="text" class="form-control" placeholder="Phiếu giảm giá">
 										</div>
-										<button type="submit" class="btn">Apply Coupon</button>
+										<button type="submit" class="btn">Áp dụng</button>
 									</form>
 								</td>
 								<td></td>

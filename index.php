@@ -39,9 +39,12 @@
     </head>
     <body>
     <?php include 'Client/Particals/Header.php' ?>
-    <?php include 'Client/Particals/Slider.php' ?>
-    <?php include 'Client/Particals/Product.php' ?>
-        
+    <?php include 'Client/Particals/Cart.php' ?>        
+    <?php include 'Client/Particals/Checkout.php' ?>  
+    <?php include 'Client/Particals/Contact.php' ?>  
+    <?php include 'Client/Particals/Our-Cakes.php' ?>  
+    <?php include 'Client/Particals/Product-details.php' ?>  
+    <?php include 'Client/Particals/Product.php' ?>  
     <?php include 'Client/Particals/Footer.php' ?>
         
         

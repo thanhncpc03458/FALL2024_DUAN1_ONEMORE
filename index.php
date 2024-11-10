@@ -41,7 +41,6 @@
     <?php include 'Client/Particals/Header.php' ?>
     <?php include 'Client/Particals/Slider.php' ?>
     <?php include 'Client/Particals/Product.php' ?>
-        
     <?php include 'Client/Particals/Footer.php' ?>
         
         
@@ -70,4 +69,3 @@
     </body>
 
 </html>
-hello

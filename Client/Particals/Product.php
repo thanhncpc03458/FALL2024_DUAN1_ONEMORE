@@ -1,35 +1,79 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-
-</head>
-<body><div class="container">
-
-
-<div class="section-product py-5"> 
- <h2 class="title-section"> Sản Phẩm </h2> 
- <div class="row">
-     <?php
-     for ($i = 0; $i < 8; $i++) :
-     ?>
-         <div class="col-12 col-md-6 col-lg-4 col-xl-3">
-             <div class="card mb-4">
-                 <img src="assets/images/product_1.jpg" class="card-img-top" alt="...">
-                 <div class="card-body">
-                     <h5 class="card-title">Card title</h5>
-                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                     <a href="#" class="btn btn-primary">Go somewhere</a>
-                 </div>
-             </div>
-         </div>
-
-     <?php endfor; ?>
- </div></div>
-
-</div>
-</body>
-</html>
+<section class="welcome_bakery_area">
+        	<div class="container">
+        		<div class="welcome_bakery_inner p_100">
+        			<div class="row">
+        				<div class="col-lg-6">
+        					<div class="main_title">
+								<h2>Welcome to our Bakery</h2>
+								<p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur uis autem vel eum.</p>
+							</div>
+        					<div class="welcome_left_text">
+        						<p>Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise.</p>
+        						<a class="pink_btn" href="#">Know more about us</a>
+        					</div>
+        				</div>
+        				<div class="col-lg-6">
+        					<div class="welcome_img">
+        						<img class="img-fluid" src="Client/assets/img/cake-feature/welcome-right.jpg" alt="">
+        					</div>
+        				</div>
+        			</div>
+        		</div>
+        		<div class="cake_feature_inner">
+        			<div class="main_title">
+						<h2>Our Featured Cakes</h2>
+						<h5> Seldolor sit amet consect etur</h5>
+					</div>
+       				<div class="cake_feature_slider owl-carousel">
+       					<div class="item">
+       						<div class="cake_feature_item">
+       							<div class="cake_img">
+       								<img src="Client/assets/img/cake-feature/c-feature-1.jpg" alt="">
+       							</div>
+       							<div class="cake_text">
+       								<h4>$29</h4>
+       								<h3>Strawberry Cupcakes</h3>
+       								<a class="pest_btn" href="#">Add to cart</a>
+       							</div>
+       						</div>
+       					</div>
+       					<div class="item">
+       						<div class="cake_feature_item">
+       							<div class="cake_img">
+       								<img src="Client/assets/img/cake-feature/c-feature-2.jpg" alt="">
+       							</div>
+       							<div class="cake_text">
+       								<h4>$29</h4>
+       								<h3>Strawberry Cupcakes</h3>
+       								<a class="pest_btn" href="#">Add to cart</a>
+       							</div>
+       						</div>
+       					</div>
+       					<div class="item">
+       						<div class="cake_feature_item">
+       							<div class="cake_img">
+       								<img src="Client/assets/img/cake-feature/c-feature-3.jpg" alt="">
+       							</div>
+       							<div class="cake_text">
+       								<h4>$29</h4>
+       								<h3>Strawberry Cupcakes</h3>
+       								<a class="pest_btn" href="#">Add to cart</a>
+       							</div>
+       						</div>
+       					</div>
+       					<div class="item">
+       						<div class="cake_feature_item">
+       							<div class="cake_img">
+       								<img src="Client/assets/img/cake-feature/c-feature-4.jpg" alt="">
+       							</div>
+       							<div class="cake_text">
+       								<h4>$29</h4>
+       								<h3>Strawberry Cupcakes</h3>
+       								<a class="pest_btn" href="#">Add to cart</a>
+       							</div>
+       						</div>
+       					</div>
+       				</div>
+        		</div>
+        	</div>
+        </section>

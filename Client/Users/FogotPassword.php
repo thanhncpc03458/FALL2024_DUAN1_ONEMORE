@@ -86,7 +86,7 @@
                     Bạn đã có tài khoản? Quay lại <a href="Login.php">Đăng nhập</a>
                 </div>
                 <div class="text-center mt-3">
-                    Bạn chưa có tài khoản? <a href="Register.php">Đăng ký</a>
+                    Bạn chưa có tài khoản?<a href="Register.php"> Đăng ký</a>
                 </div>
             </form>
         </div>

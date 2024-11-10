@@ -86,7 +86,7 @@
                     <a href="FogotPassword.php">Quên mật khẩu?</a>
                 </div>
                 <div class="text-center mt-3">
-                    Bạn chưa có tài khoản? <a href="Register.php">Đăng ký</a>
+                    Bạn chưa có tài khoản?<a href="Register.php"> Đăng ký</a>
                 </div>
             </form>
         </div>

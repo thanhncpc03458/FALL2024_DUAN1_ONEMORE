@@ -29,7 +29,7 @@
         			<div class="row footer_wd_inner">
         				<div class="col-lg-3 col-6">
         					<aside class="f_widget f_about_widget">
-        						<img src="img/footer-logo.png" alt="">
+        						<img src="Client/assets/img/footer-logo.png" alt="">
         						<p>Nhưng thực sự, chúng tôi vừa buộc tội họ vừa dẫn dắt họ đáng căm thù, những kẻ tâng bốc những người bị mềm lòng và hư hỏng bởi những thú vui hiện tại.</p>
         						<ul class="nav">
         							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
